@@ -56,4 +56,4 @@ The application supports all CRUD operations These design choices ensure the pro
 
 ## UML Database Diagram
 
-![pic](images/diagram.png)
+![pic](images/Diagram.png)
