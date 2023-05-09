@@ -46,13 +46,13 @@ The application supports all CRUD operations These design choices ensure the pro
 - pom.xml - The Maven project configuration file.
 
 ## How to start the program
-- 1) Ensure that you have JDK 17 , Maven, and MySQL 8.0.22 installed on your system.
-- 2) Clone the project from GitHub
-- 3) Update the database configuration in db.properties with your own MySQL credentials.
-- 4) Run the Maven command mvn clean package to make sure everything is fine.
-- 5) Configure TomCat for this project
-- 6) Access the application at http://localhost:8080 in your web browser.
-- 7) You can use password and login from DataInitializer
+- 1 Ensure that you have JDK 17 , Maven, and MySQL 8.0.22 installed on your system.
+- 2 Clone the project from GitHub
+- 3 Update the database configuration in db.properties with your own MySQL credentials.
+- 4 Run the Maven command mvn clean package to make sure everything is fine.
+- 5 Configure TomCat for this project
+- 6 Access the application at http://localhost:8080 in your web browser.
+- 7 You can use password and login from DataInitializer
 
 ## UML Database Diagram
 
